@@ -1,4 +1,4 @@
-### Hi there 👋
+* ### Hi there 👋 
 ### Yes, my name is Aram 🤔
 ### I’m currently learning REACT, REACT NATIVE, NEXT, NODEJS ⚡
 ### Open to offers 📫😄
