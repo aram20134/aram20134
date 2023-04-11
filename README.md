@@ -1,7 +1,7 @@
 ### Hi there 👋 
 * ### Yes, my name is Aram 🤔
 * ### I’m currently learning REACT, REACT NATIVE, NEXT, NODEJS ⚡
-* ### Open to offers 📫😄
+* ### Open to offers 📫
 * ### Text me! https://t.me/Ara2563 💬
 <!--
 **aram20134/aram20134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
