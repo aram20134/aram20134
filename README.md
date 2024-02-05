@@ -1,6 +1,6 @@
 ### Hi there 👋 
 * ### Yes, my name is Aram 🤔
-### Aboba
+* ### Aboba
 <!--* ### I’m currently learning REACT, REACT NATIVE, NEXT, NODEJS ⚡
 <!--* ### You can find me here -> https://t.me/Ara2563 💬
 <!--
